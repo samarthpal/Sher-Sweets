@@ -27,6 +27,11 @@ const linkData = [
     field: 'CATALOGUE',
     link: 'https://www.shersweets.com/wp-content/uploads/2021/12/SHER-2021-CATALOGUE.pdf',
     image: images.catalogue
+  },
+  {
+    field: 'CONTACT US',
+    link: 'Sher-Sweets/contactInfo.png',
+    image: images.contact
   }
 ]
 

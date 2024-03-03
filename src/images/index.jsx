@@ -8,6 +8,7 @@ import logo from './logos/logo.png'
 import youtube from './logos/youtube.png'
 import catalogue from './logos/catalogue.png'
 import website from './logos/website.png'
+import contact from './logos/contact.png'
 
 const main = {
   back,
@@ -18,7 +19,8 @@ const main = {
   logo,
   youtube,
   catalogue,
-  website
+  website,
+  contact
 }
 
 export default main
