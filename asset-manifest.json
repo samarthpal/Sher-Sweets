@@ -1,20 +1,21 @@
 {
   "files": {
     "main.css": "/Sher-Sweets/static/css/main.8a64de3d.css",
-    "main.js": "/Sher-Sweets/static/js/main.5296f7c5.js",
+    "main.js": "/Sher-Sweets/static/js/main.d40aabad.js",
     "static/media/back.png": "/Sher-Sweets/static/media/back.dd1a68bdb5a7f7ffd091.png",
     "static/media/logo.png": "/Sher-Sweets/static/media/logo.bc4225e0fe3acf0b8249.png",
-    "static/media/info.png": "/Sher-Sweets/static/media/info.e70fc2dc081feccec2b6.png",
+    "static/media/info.png": "/Sher-Sweets/static/media/info.135a533ba99b80d5e223.png",
     "static/media/stripe.png": "/Sher-Sweets/static/media/stripe.1b6921f52f2eae1dfec1.png",
     "static/media/instagram.png": "/Sher-Sweets/static/media/instagram.e12ebebcaa6360a99688.png",
     "static/media/facebook.png": "/Sher-Sweets/static/media/facebook.52f030560fa64272bcf6.png",
-    "static/media/catalogue.png": "/Sher-Sweets/static/media/catalogue.233898b4712cab2bc50f.png",
+    "static/media/website.png": "/Sher-Sweets/static/media/website.4ba709f4505ece7b8881.png",
+    "static/media/contact.png": "/Sher-Sweets/static/media/contact.029e6eeb2cbe920ae738.png",
     "index.html": "/Sher-Sweets/index.html",
     "main.8a64de3d.css.map": "/Sher-Sweets/static/css/main.8a64de3d.css.map",
-    "main.5296f7c5.js.map": "/Sher-Sweets/static/js/main.5296f7c5.js.map"
+    "main.d40aabad.js.map": "/Sher-Sweets/static/js/main.d40aabad.js.map"
   },
   "entrypoints": [
     "static/css/main.8a64de3d.css",
-    "static/js/main.5296f7c5.js"
+    "static/js/main.d40aabad.js"
   ]
 }
