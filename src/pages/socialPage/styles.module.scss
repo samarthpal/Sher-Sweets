@@ -12,7 +12,7 @@
   padding: 1rem 0rem;
   background: url('../../images/illus/back.png');
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: 100% cover;
   background-position: center;
   width: 100%;
   display: flex;
@@ -71,7 +71,7 @@
     color: var(--c-white);
     font-size: 1.2rem;
     font-weight: 500;
-    padding: 0.5rem 0;
+    margin: 0.5rem 0;
     filter: drop-shadow(0px 2px 10px var(--c-shadow));
 
     & > div {
