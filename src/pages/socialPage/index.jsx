@@ -30,7 +30,7 @@ const linkData = [
   },
   {
     field: 'CONTACT US',
-    link: 'Sher-Sweets/contactInfo.png',
+    link: 'https://samarthpal.github.io/Sher-Sweets/contactInfo.png',
     image: images.contact
   }
 ]
