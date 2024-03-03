@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Sher-Sweets/static/css/main.627506db.css",
+    "main.css": "/Sher-Sweets/static/css/main.f55c818e.css",
     "main.js": "/Sher-Sweets/static/js/main.b43da981.js",
     "static/media/back.png": "/Sher-Sweets/static/media/back.dd1a68bdb5a7f7ffd091.png",
     "static/media/logo.png": "/Sher-Sweets/static/media/logo.bc4225e0fe3acf0b8249.png",
@@ -11,11 +11,11 @@
     "static/media/website.png": "/Sher-Sweets/static/media/website.4ba709f4505ece7b8881.png",
     "static/media/contact.png": "/Sher-Sweets/static/media/contact.029e6eeb2cbe920ae738.png",
     "index.html": "/Sher-Sweets/index.html",
-    "main.627506db.css.map": "/Sher-Sweets/static/css/main.627506db.css.map",
+    "main.f55c818e.css.map": "/Sher-Sweets/static/css/main.f55c818e.css.map",
     "main.b43da981.js.map": "/Sher-Sweets/static/js/main.b43da981.js.map"
   },
   "entrypoints": [
-    "static/css/main.627506db.css",
+    "static/css/main.f55c818e.css",
     "static/js/main.b43da981.js"
   ]
 }
