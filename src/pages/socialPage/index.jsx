@@ -30,7 +30,7 @@ const linkData = [
   },
   {
     field: 'CONTACT US',
-    link: 'https://samarthpal.github.io/Sher-Sweets/contactInfo.png',
+    link: 'https://samarthpal.github.io/Sher-Sweets/contactInfo.pdf',
     image: images.contact
   }
 ]
@@ -44,7 +44,7 @@ export default function Main() {
         </div>
         <div className={s.title}>
           <img src={images.stripe} alt='' />
-          Click Here For
+          Click Here For <span className='material-icons-outlined'>arrow_downward</span>
         </div>
         <div className={s.links}>
           {linkData.map(({ field, link, image }, i) => (
